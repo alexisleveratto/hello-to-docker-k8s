@@ -1,7 +1,7 @@
 # Understanding Docker and Kubernetes 🐳☸️
-
-<img src="meme.jpg" alt="Docker and Kubernetes" width="300px">
-
+<div align="center">
+  <img src="meme.jpg" alt="Docker and Kubernetes" width="300px">
+</div>
 Welcome to the world of Docker and Kubernetes! In this guide, we'll embark on a journey to understand these two powerful technologies and how they can revolutionize the way we build, deploy, and manage applications. 
 
 ## Docker 🐳
